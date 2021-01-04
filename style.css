@@ -2,7 +2,7 @@ body {
     margin: 0;
     font-family: 'Poppins', sans-serif;
 }
-/* Navigation Bar */
+/* Navigation Bar
 #navbar{
     display: flex;
     align-items:center;
@@ -23,7 +23,7 @@ body {
 
 /* Navigation Bar: List Styling */
 
-#navbar ul{
+/* #navbar ul{
     display: flex;
     font-family: 'Poppins', sans-serif;
 }
@@ -44,7 +44,7 @@ body {
 #navbar ul li a:hover{
     color: black;
     background-color: white;
-}
+} */ */
 h1 {
     font-size: 50px;
 }
